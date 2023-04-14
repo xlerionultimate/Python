@@ -1,3 +1,3 @@
 c = 5
 d = 6 
-print (c + d)
+print (c + d - d) 
