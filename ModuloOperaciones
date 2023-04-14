@@ -1,0 +1,5 @@
+# Modulo operations
+
+zero = 8 % 4
+
+nonzero = 12 % 5
